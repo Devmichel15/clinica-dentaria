@@ -4,7 +4,7 @@ import { motion } from "motion/react";
 
 function Hero() {
   return (
-    <section className="relative w-full h-135 flex items-center rounded-3xl justify-around bg-gray-300 px-10">
+    <section className="relative w-full h-135 flex items-center rounded-3xl justify-around bg-gray-200 px-10">
       {/* Conteúdo */}
       <div className="relative z-10 max-w-2xl flex flex-col gap-4">
         <motion.span 
